@@ -110,11 +110,14 @@ I mostly work with "Trendy" Java⚡️script and React⚡️Native technologies.
 
 ###
 
-## Medium Posts
+## 📝 Últimos posts no Medium
 
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=htrixe&theme=default" alt="Layout with last medium posts"  />
 </div>
+
+- [Título do Post 1](https://medium.com/@htrixe/as-ferramentas-mcp-model-connected-plugins-est%C3%A3o-a-revolucionar-o-desenvolvimento-de-software-5372d8321e8c)
+- [Título do Post 2]([link](https://medium.com/@htrixe/security-and-productivity-in-the-new-era-of-ai-integration-549dd054bd28))
 
 ## 📚 Leia meus artigos no Medium
 
