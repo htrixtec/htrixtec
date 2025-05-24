@@ -1,3 +1,21 @@
+<div align="center">
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjV5ZG9iZGxiM3pnazZoZDgxZGEwZ3B2NTlmaWw4Mm16bTB6dWhwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
+
+###
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=htrixe.htrixe&"  />
+
+###
+
 <h2 align="center">👋 Hello there, I'm H 🚀 Welcome to my GitHub profile! 🛠️ </h2>
 
 🛢️ Software Developer & DevOps Engineer | Automating & Optimizing Infrastructure
@@ -59,15 +77,25 @@ I mostly work with "Trendy" Java⚡️script and React⚡️Native technologies.
 ![RaspberryPi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 
-  ### ⚙️ &nbsp;GitHub Analytics
- 
-<p align="center">
-<a href="https://github.com/htrixe">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=clio19&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="clio19"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ihssanehatim&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=htrixe&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=htrixe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=Languages%20repo%20stats" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=htrixe&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Htrixe&theme=default" alt="Layout with last medium posts"  />
+</div>
+
+###
 
 <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
@@ -76,9 +104,6 @@ I mostly work with "Trendy" Java⚡️script and React⚡️Native technologies.
 <a href="https://www.buymeacoffee.com/htrixe" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
  
-### 😄  My Visitors
-<img src="https://visitor-badge.glitch.me/badge?page_id=htrixe&left_color=green&right_color=red" alt="visitor badge"/>
-
 ---
 
 ### 📕 Latest Blog Posts
@@ -98,10 +123,21 @@ I mostly work with "Trendy" Java⚡️script and React⚡️Native technologies.
 [<img align="left" alt="hctec | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="hctec | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=htrixe" alt="Layout with last medium posts"  />
+</div>
+
+###
+
   
 [website]: https://htec.pt/
 [twitter]: hhttps://twitter.com/htrixe
 [youtube]: https://www.youtube.com/channel/UCGyOlxpY2isQUrTzW5Tking
 [linkedin]: https://linkedin.com/in/htrixe
 
+<img src="https://raw.githubusercontent.com/htrixe/htrixe/output/snake.svg" alt="Snake animation" />
 
+###
