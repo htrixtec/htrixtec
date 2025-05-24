@@ -88,13 +88,6 @@ I mostly work with "Trendy" Java⚡️script and React⚡️Native technologies.
   <img src="https://streak-stats.demolab.com?user=htrixe&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Htrixe&theme=default" alt="Layout with last medium posts"  />
-</div>
-
 ###
 
 <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
@@ -114,6 +107,14 @@ I mostly work with "Trendy" Java⚡️script and React⚡️Native technologies.
 - [Connecting by SSH without password on Mac](https://tecdreams.com/connecting-by-ssh-without-password-on-mac/?utm_source=rss&utm_medium=rss&utm_campaign=connecting-by-ssh-without-password-on-mac)
 - [Como criar um aplicativo de notícias com o React Native](https://tecdreams.com/como-criar-um-aplicativo-de-noticias-com-o-react-native/?utm_source=rss&utm_medium=rss&utm_campaign=como-criar-um-aplicativo-de-noticias-com-o-react-native)
 <!-- BLOG-POST-LIST:END -->
+
+###
+
+## Medium Posts
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Htrixe&theme=default" alt="Layout with last medium posts"  />
+</div>
 
 ---
  ### 🔌 
