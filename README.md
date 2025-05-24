@@ -123,6 +123,11 @@ I mostly work with "Trendy" Java⚡️script and React⚡️Native technologies.
 [<img align="left" alt="hctec | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="hctec | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=htrixe" alt="Layout with last medium posts"  />
+</div>
 
 ###
 
@@ -133,19 +138,10 @@ I mostly work with "Trendy" Java⚡️script and React⚡️Native technologies.
 </picture>
 
 ###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=htrixe" alt="Layout with last medium posts"  />
-</div>
-
-###
-
   
 [website]: https://htec.pt/
 [twitter]: hhttps://twitter.com/htrixe
 [youtube]: https://www.youtube.com/channel/UCGyOlxpY2isQUrTzW5Tking
 [linkedin]: https://linkedin.com/in/htrixe
-
-<img src="https://raw.githubusercontent.com/htrixe/htrixe/output/snake.svg" alt="Snake animation" />
 
 ###
