@@ -113,8 +113,13 @@ I mostly work with "Trendy" Java⚡️script and React⚡️Native technologies.
 ## Medium Posts
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Htrixe&theme=default" alt="Layout with last medium posts"  />
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=htrixe&theme=default" alt="Layout with last medium posts"  />
 </div>
+
+## 📚 Leia meus artigos no Medium
+
+[![Medium](https://img.shields.io/badge/Medium-Htrixe-black?logo=medium)](https://medium.com/@htrixe)
+
 
 ---
  ### 🔌 
