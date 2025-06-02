@@ -38,7 +38,7 @@ I mostly work with "Trendy" Java⚡️script and React⚡️Native technologies.
 ### 📫 How to reach me? 
 
   ⦿ Visit my [Website](https://htec.pt) 🌐 <br>
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/htrixe/) 💻 <br>
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/htrixtec/) 💻 <br>
   ⦿ Follow me on [Twitter](https://twitter.com/htrixe) 🐦 <br>
 
 ### 🥊 Languages and Tools:
@@ -83,9 +83,9 @@ I mostly work with "Trendy" Java⚡️script and React⚡️Native technologies.
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=htrixe&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=htrixe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=Languages%20repo%20stats" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=htrixe&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=htrixtec&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=htrixtec&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=Languages%20repo%20stats" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=htrixtec&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
@@ -112,10 +112,6 @@ I mostly work with "Trendy" Java⚡️script and React⚡️Native technologies.
 
 ## 📝 Últimos posts no Medium
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=htrixe&theme=default" alt="Layout with last medium posts"  />
-</div>
-
 - [O que são ferramentas MCP](https://medium.com/@htrixe/as-ferramentas-mcp-model-connected-plugins-est%C3%A3o-a-revolucionar-o-desenvolvimento-de-software-5372d8321e8c)
 - [Security and Productivity in the New Era of AI Integration](https://medium.com/@htrixe/security-and-productivity-in-the-new-era-of-ai-integration-549dd054bd28)
 
@@ -141,9 +137,9 @@ I mostly work with "Trendy" Java⚡️script and React⚡️Native technologies.
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/htrixe/htrixe/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/htrixe/htrixe/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/htrixe/htrixe/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/htrixtec/htrixtec/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/htrixtec/htrixtec/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/htrixtec/htrixtec/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
@@ -151,6 +147,6 @@ I mostly work with "Trendy" Java⚡️script and React⚡️Native technologies.
 [website]: https://htec.pt/
 [twitter]: hhttps://twitter.com/htrixe
 [youtube]: https://www.youtube.com/channel/UCGyOlxpY2isQUrTzW5Tking
-[linkedin]: https://linkedin.com/in/htrixe
+[linkedin]: https://linkedin.com/in/hugo-spike
 
 ###
