@@ -119,7 +119,6 @@ I mostly work with "Trendy" Java⚡️script and React⚡️Native technologies.
 
 [![Medium](https://img.shields.io/badge/Medium-Htrixe-black?logo=medium)](https://medium.com/@htrixe)
 
-
 ---
  ### 🔌 
   
